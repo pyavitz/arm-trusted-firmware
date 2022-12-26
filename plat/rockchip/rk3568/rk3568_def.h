@@ -32,7 +32,7 @@
 #define USB2PHY_U2_GRF		0xfdca8000
 #define EDPPHY_GRF		0xfdcb0000
 #define SYSSRAM_BASE		0xfdcc0000
-#define PCIE30PHY_GRF		0xfdcb80000
+#define PCIE30PHY_GRF		0xfdcb8000
 #define USBGRF_BASE		0xfdcf0000
 
 #define PMUCRU_BASE		0xfdd00000

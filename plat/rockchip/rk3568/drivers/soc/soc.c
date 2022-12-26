@@ -5,7 +5,7 @@
  */
 
 #include <common/debug.h>
-#include <lib/xlat_tables/xlat_tables_v2.h>
+#include <lib/xlat_tables/xlat_tables_compat.h>
 #include <mmio.h>
 #include <platform_def.h>
 #include <soc.h>
